@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as eegmath."
+title: eegmath
+type: software
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Zarrin Nia
+    given-names: Arash
+    affiliation: Mathematics Research Center, Tampere University
+  - family-names: Scheinin
+    given-names: Annalotta
+    affiliation: Turku PET Centre, University of Turku and Turku University Hospital
+  - family-names: Långsjö
+    given-names: Jaakko
+    affiliation: Intensive Care Unit, Tampere University Hospital
+  - family-names: Valli
+    given-names: Katja
+    affiliation: University of Turku and University of Skövde
+  - family-names: Kantonen
+    given-names: Oskari
+    affiliation: Turku University Hospital
+  - family-names: Kallionpää
+    given-names: Roosa E.
+    affiliation: University of Turku
+  - family-names: Scheinin
+    given-names: Harry
+    affiliation: Turku PET Centre, University of Turku and Turku University Hospital
+  - family-names: Pursiainen
+    given-names: Sampsa
+    affiliation: Mathematics Research Center, Tampere University

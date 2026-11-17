@@ -1,0 +1,41 @@
+"""Preprocessing operations. None of these run unless called."""
+
+from eegmath.preprocess.operations import (
+    STEPS,
+    apply_steps,
+    bandpass,
+    baseline_correct,
+    detect_bad_channels,
+    detrend,
+    drop_channels,
+    map_collection,
+    notch,
+    pick_channels,
+    qc_summary,
+    qc_table,
+    rereference,
+    resample,
+    to_mne,
+    window,
+    zscore,
+)
+
+__all__ = [
+    "STEPS",
+    "apply_steps",
+    "bandpass",
+    "baseline_correct",
+    "detect_bad_channels",
+    "detrend",
+    "drop_channels",
+    "map_collection",
+    "notch",
+    "pick_channels",
+    "qc_summary",
+    "qc_table",
+    "rereference",
+    "resample",
+    "to_mne",
+    "window",
+    "zscore",
+]
